@@ -16,12 +16,6 @@ Check out a warning alert with a `codeblock`!
 
 </alert>
 
-<alert>
-
-Check out a warning alert with a `codeblock`!
-
-</alert>
-
 <test>
 
 </test>
