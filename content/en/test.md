@@ -16,6 +16,4 @@ Check out a warning alert with a `codeblock`!
 
 </alert>
 
-<test>
-
-</test>
+<test></test>
